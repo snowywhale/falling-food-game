@@ -11,13 +11,13 @@ canvas.height = 600;
 // تصاویر
 const images = {};
 const imageSources = {
-  rabbit: "assets/rabbit.png",
-  carrot: "assets/carrot.png",
-  goldenCarrot: "assets/golden_carrot.png",
-  candy: "assets/candy.png",
-  stone: "assets/stone.png",
-  bomb: "assets/bomb.png",
-  missile: "assets/missile.png",
+  rabbit: "rabbit.png",
+  carrot: "carrot.png",
+  goldenCarrot: "golden_carrot.png",
+  candy: "candy.png",
+  stone: "stone.png",
+  bomb: "bomb.png",
+  missile: "missile.png",
 };
 
 let loadedImages = 0;
